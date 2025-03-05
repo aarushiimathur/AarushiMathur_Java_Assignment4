@@ -29,4 +29,10 @@ class Deck {
     public void printCard(Card card) {
         System.out.println(card);
     }
+    // Shuffle the deck
+    public void shuffleDeck() {
+        Collections.shuffle(deck);
+        System.out.println("Deck has been shuffled.");
+    }
+    
     
