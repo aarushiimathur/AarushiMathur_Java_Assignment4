@@ -14,3 +14,9 @@ class Card {
     public String getSuit() {
         return suit;
     }
+    // String representation of a Card
+    @Override
+    public String toString() {
+        return rank + " of " + suit;
+    }
+}
