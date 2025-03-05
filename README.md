@@ -1,8 +1,8 @@
-Overview
+**Overview**
 
 This Java program simulates a deck of 52 playing cards, allowing various operations such as shuffling, dealing cards, searching for specific cards, and displaying cards based on suits or ranks.
 
-Features
+**Features**
 
 Create a deck of 52 standard playing cards
 
@@ -32,7 +32,7 @@ Deck
 
 Manages the deck of 52 cards.
 
-Methods:
+**Methods:**
 
 createDeck(): Initializes the deck.
 
@@ -50,7 +50,7 @@ dealCard(): Deals 5 random cards from the deck.
 
 shuffleDeck(): Randomizes the deck order.
 
-Menu Options
+**Menu Options**
 
 When running the program, the user can choose from the following options:
 
